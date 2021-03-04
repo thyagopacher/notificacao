@@ -1,0 +1,18 @@
+input[readonly]
+{
+    background-color: white !important;
+}
+
+.fa-file-excel-o{
+    background: green;
+    color: white;    
+}
+
+.fa-file-pdf-o{
+    background: red;
+    color: white;
+}
+
+.fa-times{
+    color: red;
+}
